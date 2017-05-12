@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\admin\Desktop\examples\easeui\build\intermediates\bundles\default\libs\android-support-v4.jar
+FILE_HASH=aaa9bc27cf2226482875d769ac45286970935b21
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

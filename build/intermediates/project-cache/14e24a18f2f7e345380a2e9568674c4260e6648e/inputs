@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\admin\Desktop\examples\ChatDemoUI3.0\libs\umeng-update-v2.6.0.1.jar
+FILE_HASH=7bfeea30c4995f90a4374ce4177772a4579f2797
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

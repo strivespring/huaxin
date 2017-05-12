@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\admin\Desktop\examples\ChatDemoUI3.0\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
+FILE_HASH=174d2f8df04529a18f48b9d596704285b76513f9
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

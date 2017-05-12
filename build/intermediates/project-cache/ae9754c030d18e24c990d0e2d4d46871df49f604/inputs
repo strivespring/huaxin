@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\admin\Desktop\examples\easeui\build\intermediates\bundles\default\libs\google-play-services.jar
+FILE_HASH=dc8ba9e80c63fa62ffe4130ae3487a2ec25912ef
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

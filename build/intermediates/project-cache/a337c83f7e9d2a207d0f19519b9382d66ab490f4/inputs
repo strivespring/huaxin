@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\admin\Desktop\examples\ChatDemoUI3.0\libs\android-support-multidex.jar
+FILE_HASH=9a9d5c95d823ccda38f185a5f80ace6bfd61c0d5
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

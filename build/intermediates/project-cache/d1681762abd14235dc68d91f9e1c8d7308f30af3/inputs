@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\admin\Desktop\examples\easeui\build\intermediates\bundles\default\libs\org.apache.http.legacy.jar
+FILE_HASH=49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

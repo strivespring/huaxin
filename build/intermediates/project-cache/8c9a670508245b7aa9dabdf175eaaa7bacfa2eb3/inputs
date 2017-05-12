@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\admin\Desktop\examples\easeui\build\intermediates\bundles\default\libs\HwPush_SDK_V2705_nomap.jar
+FILE_HASH=d68d22f9e4842e7ea73a667df0808babf6402704
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

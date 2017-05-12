@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\admin\Desktop\examples\easeui\build\intermediates\bundles\default\libs\MiPush_SDK_Client_2_2_19.jar
+FILE_HASH=6231c3f3409df7b3172bc5e89f68fbc6beec733e
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

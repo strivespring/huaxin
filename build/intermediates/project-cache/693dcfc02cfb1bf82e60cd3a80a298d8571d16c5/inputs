@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\admin\Desktop\examples\easeui\build\intermediates\bundles\default\libs\BaiduLBS_Android.jar
+FILE_HASH=f1d3eb83228ace176170b6c5c9fa3b792011581b
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

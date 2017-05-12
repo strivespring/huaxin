@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\admin\Desktop\examples\ChatDemoUI3.0\libs\parse-android-1.13.0.jar
+FILE_HASH=58a7d54b6a4f28be11f0cecec93097eddf473e6f
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

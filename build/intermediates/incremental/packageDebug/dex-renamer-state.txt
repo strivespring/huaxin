@@ -1,0 +1,7 @@
+#Fri May 12 14:35:00 CST 2017
+base.0=C\:\\Users\\admin\\Desktop\\examples\\ChatDemoUI3.0\\build\\intermediates\\transforms\\dexMerger\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8ccc8bf87eb9219fe0d0c9eba88d5aaffe077983_6205ab4ea8733cd6dcf85ee7928044f9261d325e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\admin\\Desktop\\examples\\ChatDemoUI3.0\\build\\intermediates\\transforms\\dexMerger\\debug\\folders\\1000\\10000\\instant-run_4d4cd4a6558155511a79d8da7a380778ff72c4ec_0f1a4d08ac60d611861e3b81e7d691a65c4d5f21\\classes.dex
+base.1=C\:\\Users\\admin\\Desktop\\examples\\ChatDemoUI3.0\\build\\intermediates\\transforms\\dexMerger\\debug\\folders\\1000\\10000\\instant-run_4d4cd4a6558155511a79d8da7a380778ff72c4ec_0f1a4d08ac60d611861e3b81e7d691a65c4d5f21
+file.0=C\:\\Users\\admin\\Desktop\\examples\\ChatDemoUI3.0\\build\\intermediates\\transforms\\dexMerger\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8ccc8bf87eb9219fe0d0c9eba88d5aaffe077983_6205ab4ea8733cd6dcf85ee7928044f9261d325e\\classes.dex
